@@ -22,7 +22,7 @@ The frontend of ArtiGenius.AI is deployed using Vercel, while the backend, which
 ### Installation
 Clone the repository:
 
-git clone https://github.com/your-username/artigenius-ai.git
+[git clone https://github.com/your-username/artigenius-ai.git](https://github.com/ssmp10/artigenius-ai.git)
 
 ### Install dependencies for both frontend and backend:
 
