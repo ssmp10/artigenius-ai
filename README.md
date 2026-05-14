@@ -8,7 +8,7 @@ is an innovative image generation website that combines the power of AI, MongoDB
 ### High-Quality Outputs: Experience the best image quality possible, thanks to Cloudinary's robust infrastructure.
 ### Web-Based Platform: Access ArtiGenius.AI anytime, anywhere, and create art at your convenience.
 
-## Technologies Used
+## Technologies Used here
 * Vite
 * React
 * MongoDB
